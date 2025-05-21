@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Моё портфолио</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <section class="header">
+    <h1>Привет, я [Твоё Имя]</h1>
+    <p>Дизайнер / Разработчик / Фотограф</p>
+  </section>
+</body>
+</html>
